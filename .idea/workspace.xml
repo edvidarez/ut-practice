@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05e0aaef-6db2-4f5e-b710-906819929b55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/fechaTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/java/fecha_test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mx/iteso/utpractice/fecha.class" afterPath="$PROJECT_DIR$/target/classes/mx/iteso/utpractice/fecha.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mx/iteso/utpractice/fecha.java" afterPath="$PROJECT_DIR$/src/main/java/mx/iteso/utpractice/fecha.java" />
-    </list>
+    <list default="true" id="05e0aaef-6db2-4f5e-b710-906819929b55" name="Default" comment="" />
     <ignored path="ut-practice.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -747,7 +741,7 @@
       <updated>1472128493126</updated>
       <workItem from="1472128503149" duration="5602000" />
       <workItem from="1473078945552" duration="184000" />
-      <workItem from="1473716752421" duration="5943000" />
+      <workItem from="1473716752421" duration="6095000" />
     </task>
     <servers />
   </component>
@@ -778,7 +772,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11729000" />
+    <option name="totallyTimeSpent" value="11881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
